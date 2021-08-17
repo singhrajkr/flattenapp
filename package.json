@@ -21,6 +21,7 @@
     "express-xml-bodyparser": "^0.3.0",
     "flat": "^5.0.2",
     "morgan": "^1.10.0",
+    "pm2": "^5.1.0",
     "xml-js": "^1.6.11",
     "xml2json": "^0.12.0"
   }
